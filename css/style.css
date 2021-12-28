@@ -1,6 +1,6 @@
 body{
 height: 100%;
-background: url ("../img/lox.png")   no-repeat center/ cover;
+background: url("../img/lox.png")   no-repeat center/ cover;
 
 }
 .preview {
@@ -32,7 +32,7 @@ color: #f5f5f5;
 font-family: cursive;
 text-align: left;
 text-decoration: overline;
-padding-top: 100px;
+padding-top: 200px;
 margin: 30px;
 text-shadow: 1px 1px #122e18;
 
